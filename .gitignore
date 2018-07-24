@@ -3,3 +3,10 @@
 ################################################################################
 
 /webstudy/bin/webstudy.pdb
+/webstudy/bin/webstudy.dll.config
+/webstudy/bin/webstudy.dll
+/.vs
+/webstudy/obj/Debug
+/webstudy/webstudy.csproj.user
+/webstudy/Web.Release.config
+/webstudy/Web.Debug.config
